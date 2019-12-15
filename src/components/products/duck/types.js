@@ -1,0 +1,9 @@
+const GET_ITEMS_START = 'products/GET_ITEMS_START';
+const GET_ITEMS_SUCCESS = 'products/GET_ITEMS_SUCCESS';
+const GET_ITEMS_FAIL = 'products/GET_ITEMS_FAIL';
+
+export default {
+  GET_ITEMS_START,
+  GET_ITEMS_SUCCESS,
+  GET_ITEMS_FAIL,
+};
